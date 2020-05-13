@@ -7,7 +7,7 @@ Our project won first place in both rounds of the 2020 Virginia Tech Blockchain 
 
 ![](ss/check.png)
 
-Pictured: The Goblins (left to right: Rachel Kitchen, Nathan Kennedy, **Sameer Dandekar**, Niles Rogoff, Ankita Khera)
+Pictured: The Goblins (left to right: Rachel Kitchen, Nathan Kennedy, Sameer Dandekar, Niles Rogoff, Ankita Khera)
 
 Virginia Tech uses a lottery to distribute tickets to students for football and basketball games. For popular events, tickets sell out and often students resell their ticket for hundreds of dollars beyond market value, unregulated by the university since students can print tickets and send them to others. As an effect, many passionate fans are squeezed out of this experience and not rewarded for their enthusiasm. HokieTickets seeks to create a fairer, more enjoyable blockchain-based system to replace the VT student sports ticket system with a focus on the distribution of tickets and incentivizing participation.  The EOSIO blockchain is used to validate, store, and manage various transactions with tickets, games, and users managed through a smart contract. Using EOSIO to validate transactions ensures the school knows who’s at the game, how many, and that students are rewarded for attending. This system provides a sense of security and trust in the system for both school administrators and students. As a result, students will benefit from a fair distribution system and will enjoy the ticketing and sporting event experience. Virginia Tech will benefit from subduing the ticket black market, allowing the school to fully regulate and profit from the sale of tickets, whether they be sold first-hand or second-hand. The broader community at Virginia Tech will benefit from renewed enthusiasm resulting from incentivizing students who display exemplary school spirit.
 
@@ -43,30 +43,6 @@ The following folders also have related files:
 
 ![](ss/meeting1.png)
 
-Small version:
-![](ss/meeting2.png)
-
-![](ss/backend.jpg)
-
-![](ss/sm5.jpg)
-
-![](ss/me.jpg)
-
-![](ss/google.png)
-
-![](ss/goblin.png)
-
-<img src="https://raw.githubusercontent.com/nilesr/HokieTickets/master/ss/sm1.jpeg" width="49%" /><img src="https://raw.githubusercontent.com/nilesr/HokieTickets/master/ss/sm2.jpeg" width="49%" /><img src="https://raw.githubusercontent.com/nilesr/HokieTickets/master/ss/sm21.jpeg" width="49%" /><img src="https://raw.githubusercontent.com/nilesr/HokieTickets/master/ss/sm22.jpeg" width="49%" />
-
-<img src="https://raw.githubusercontent.com/nilesr/HokieTickets/master/ss/sm3.jpeg" width="49%" /><img src="https://raw.githubusercontent.com/nilesr/HokieTickets/master/ss/sm4.jpeg" width="49%" />
-
-First round certificate:
-
-![](ss/cert-1.png)
-
 Older software diagram:
 
 ![](ss/diagram-old.png)
-
-![](ss/names.png)
-
